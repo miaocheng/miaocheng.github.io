@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Miao Cheng's Homepage</title>
+	<style>
+	td {
+		font-size: 18px;
+	}
+	p, li {
+		font-size: 18px;
+	}
+	a {
+		color: blue;
+		text-decoration: underline;
+	}
+	.webaddr {
+		font-size: 18px;
+		color: blue;
+		text-decoration: none;
+	}
+	.addr {
+		font-size: 20px;
+	}
+	.state {
+		font-size: 20px;
+	}
+	.photo {
+		font-size: 23px;
+	}
+	.footer {
+		font-size: 10px;
+		color: gray;
+	}
+	.cent{font-size: 23px; text-align:center}
+	
+	</style>
+</head>
+
+
+<body>
+	<br />
+	
+	<h1>Miao Cheng's Homepage</h1>
+	<!--<img src="images/miao.jpg" width="240" height="30%">-->
+	<!--<img src="none.jpg" width="240" height="30%" title="">-->
+	
+	<p>&nbsp;</p>
+	
+	
+	<p><b>School of Computer Science and Information Science	<br />
+	Guangxi Normal University	<br />
+	Guilin, Guangxi, China	</b>
+	</p>
+	
+	
+	<table>
+	<tr>
+	<td><b>E-mail: </b></td><td><b><a href="mailto:mcheng@mailbox.gxnu.edu.cn" class="addr">mcheng@mailbox.gxnu.edu.cn</a></b></td>
+	<tr>
+	<td></td>	<td><b><a href="mailto:miao_cheng@outlook.com" class="addr">miao_cheng@outlook.com</a></b></td>
+	</table>
+	
+	<br />	
+	
+	<p>I joined Guangxi Normal University in the early of 2019, which is located at Guilin, a famous tourism city of Guangxi Province of China. 
+	It is well-known for its beautiful scene of natural rivers and mountains, as well as the native songs of minority.
+	</p>
+	
+	<p>&nbsp;</p>
+	
+	
+	<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+	<a href="publication.html" target="_blank" class="cent">Publication</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="teaching.html" target="_blank" class="cent">Teaching</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="resource.html" target="_blank" class="cent">Resource</a>
+	
+	<br />
+	<br />
+	
+	<hr />
+	
+	
+	
+	<h2>Research Interests</h2>
+	<p>
+	My research interests mainly lie at the latent applications of adaptive learning, computational intelligence, and signal processing. 
+	They typically fall under one of the following categories: Efficient Algorithm Design, Adaptive Machine Learning, Structured Data Analysis, Signal Analysis and their applications.
+	</p>
+	
+	
+	<p>&nbsp;</p>
+	
+	<p>&nbsp;</p>
+
+	<p>&nbsp;</p>
+
+	<p>&nbsp;</p>
+
+	<p>&nbsp;</p>
+
+	<p>&nbsp;</p>
+
+	<p>&nbsp;</p>
+	
+
+
+	
+	<center>
+	    <div class="footer">
+		All rights reserved &copy; 2021&nbsp;by Miao Cheng
+		</div>
+	</center>
+</body>
+</html>
+
