@@ -88,8 +88,8 @@
 	
 	<h2>Research Interests</h2>
 	<p>
-	My research interests mainly lie at the latent applications of adaptive learning, computational intelligence, and signal processing. 
-	They typically fall under one of the following categories: Efficient Algorithm Design, Adaptive Machine Learning, Structured Data Analysis, Signal Analysis and their applications.
+	My research interests mainly lie at the latent applications of Adaptive Learning, Computational Intelligence, and Signal processing. 
+	They typically fall under one of the following categories: efficient algorithm design, adaptive machine learning, structured data analysis, signal analysis and their applications.
 	</p>
 	
 	
