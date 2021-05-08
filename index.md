@@ -64,7 +64,7 @@
 	
 	<br />	
 	
-	<p>I joined Guangxi Normal University in the early of 2019, which is located at Guilin, a famous tourism city of Guangxi Province of China. 
+	<p>I joined Guangxi Normal University in the early of 2019, which is located at Guilin, a famous tourism city of Guangxi province of China. 
 	It is well-known for its beautiful scenes of natural rivers and mountains, as well as the native songs of minority.
 	</p>
 	
